@@ -166,7 +166,7 @@ Based on the analysis, banks can consider:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Bank Customer Churn Analysis](Dashboard Bank Customer Churn Analysis.png)
+![Dashboard](https://github.com/Arthiravi305/Bank-Customer-Churn-Analysis/blob/main/Dashboard%20Bank%20Customer%20Churn%20Analysis.PNG?raw=true.png)
 
 ---
 
